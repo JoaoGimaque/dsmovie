@@ -9,11 +9,11 @@
 		<version>2.6.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.marcosluan00</groupId>
+	<groupId>com.JoaoGimaque</groupId>
 	<artifactId>dsmovie</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsmovie</name>
-	<description>Projeto criado na Semana Spring React - DEVSUPERIOR</description>
+	<description>Projeto criado na Semana Spring React</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
